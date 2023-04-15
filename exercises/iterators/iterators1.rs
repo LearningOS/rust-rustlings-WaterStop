@@ -5,7 +5,7 @@
 // When performing operations on elements within a collection, iterators are essential.
 // This module helps you get familiar with the structure of using an iterator and
 // how to go through elements within an iterable collection.
-//
+//rust
 // Execute `rustlings hint iterators1` or use the `hint` watch subcommand for a hint.
 
 fn main() {
